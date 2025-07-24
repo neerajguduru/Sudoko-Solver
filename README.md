@@ -1,17 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>🧩 Sudoku Solver GUI – Python Tkinter</title>
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; background: #fafafa; color: #333; max-width: 800px; margin: auto; padding: 20px; }
-  h1, h2, h3 { color: #4a148c; }
-  code { background: #eee; padding: 2px 4px; border-radius: 4px; }
-  pre { background: #eee; padding: 10px; border-radius: 6px; overflow-x: auto; }
-  ul { list-style-type: "🔹 "; margin-left: 1em; }
-  img { display: block; margin: 20px auto; border: 1px solid #ccc; border-radius: 8px; max-width: 100%; }
-</style>
-</head>
 <body>
 
 <h1>🧩 Sudoku Solver GUI – Python Tkinter</h1>
@@ -30,10 +18,6 @@ Supports manual puzzle input, random puzzle generation, visual backtracking with
   <li>✋ Stop button to interrupt the solving process</li>
   <li>🎨 Clean, responsive, and user-friendly Tkinter-based UI</li>
 </ul>
-
-<h2>📷 Screenshot</h2>
-<p>Example of the solver running step-by-step (green = guesses, red = backtracks):</p>
-<img src="sudoku_screenshot.jpg" alt="Sudoku Solver GUI screenshot" />
 
 <h2>🛠 How It Works</h2>
 <p>
